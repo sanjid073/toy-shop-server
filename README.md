@@ -1,8 +1,8 @@
-# Holidays Planner
+# Toy Shop
 
 It is a Full stack application made with ReactJS, mongodb, firebase, bootstrap CSS etc...
 
-## Live Demo of this website : https://holiday-planers.web.app/
+## Live Demo of this website : https://toy-shop-272b5.web.app/
 
 ## Features
 
